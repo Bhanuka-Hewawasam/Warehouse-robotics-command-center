@@ -1,0 +1,32 @@
+# Maven build output
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Maven wrapper (optional to keep, but ignoring for now)
+.mvn/
+mvnw
+mvnw.cmd
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+*.env
+
+# Eclipse (in case switching editors later)
+.classpath
+.project
+.settings/
+bin/
